@@ -1,0 +1,32 @@
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\bin\Debug\net5.0\Exercise1.exe
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\bin\Debug\net5.0\Exercise1.deps.json
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\bin\Debug\net5.0\Exercise1.dll
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\bin\Debug\net5.0\ref\Exercise1.dll
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\bin\Debug\net5.0\Exercise1.pdb
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\Exercise1.dll
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\ref\Exercise1.dll
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\Exercise1.pdb
+C:\Users\MaadRayaneh\Downloads\Homeworks\Homeworks\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\bin\Debug\net5.0\Exercise1.exe
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\bin\Debug\net5.0\Exercise1.deps.json
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\bin\Debug\net5.0\Exercise1.dll
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\bin\Debug\net5.0\ref\Exercise1.dll
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\bin\Debug\net5.0\Exercise1.pdb
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\Exercise1.dll
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\ref\Exercise1.dll
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\Exercise1.pdb
+C:\Users\MaadRayaneh\Downloads\شفق رضانیا -تمرینات سری اول\Homeworks\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
